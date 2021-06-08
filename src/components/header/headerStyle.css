@@ -1,0 +1,29 @@
+.title {
+    position: sticky;
+    display: flex;
+    justify-content: space-around;
+    top: 0%;
+    margin-bottom: 2em;
+    background-color: rgba(245, 0, 20, 0.932);
+
+}
+
+.Logo {
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: inline;
+    align-items: baseline;
+    padding: 1em;
+    letter-spacing: 0.2em;
+    color: rgb(245, 243, 243);
+
+}
+
+.Header-search-bar {
+    margin: 0.5em 0.2em;
+    align-items: baseline;
+    justify-content: space-between;
+    border-style: groove;
+}
+

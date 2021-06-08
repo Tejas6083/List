@@ -1,0 +1,17 @@
+.Footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    padding: 0.5em;
+    background-color: rgb(173, 170, 169);
+
+}
+
+.Footer-section {
+    display: inline;
+    color: rgba(207, 238, 194, 0.952)
+}
