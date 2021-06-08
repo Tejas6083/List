@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-To install all the `npm packages` required to run the project.\
+To install all the `npm packages` required to run the project.
 
 
 ### `npm start`
@@ -33,7 +33,7 @@ Your app is ready to be deployed!
 
 ### `Project Details`
 
-Here we are displaying the list of data from a dummy API.\
+Here we are displaying the list of data from a dummy API.
 
 We are using React and Redux to Fetch, Search and Delete the data using the dummy API.
 
